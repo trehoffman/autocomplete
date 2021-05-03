@@ -4,7 +4,7 @@
 
 A simple Javascript library for creating autocomplete inputs.
 
-## Quick Start
+## Quick Start (https://trehoffman.github.io/autocomplete/)
 
 Import the autocomplete library:
 
