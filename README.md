@@ -51,7 +51,8 @@ var autocomplete_3 = new Autocomplete({
 
 Initialize an input with autocomplete (function with fetch):
 
-```var autocomplete_4 = new Autocomplete({
+```
+var autocomplete_4 = new Autocomplete({
     target: document.querySelector('input[name="test4"]'),
     delay: 500,
     minLength: 1,
